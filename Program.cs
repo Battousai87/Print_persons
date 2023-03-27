@@ -1,9 +1,9 @@
 ﻿namespace DTP11_Print_Persons
 {
-    internal class Program
+    class Program
     {
         /// <summary>
-        /// 
+        /// blblblblblba
         /// </summary>
         static List<Person> addressList = new List<Person>();
         /// <summary>
